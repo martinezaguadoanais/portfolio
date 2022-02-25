@@ -27,6 +27,12 @@ Temporary Items
 .apdisk
 
 ### WordPress ###
+# Core
+#
+# Note: if you want to stage/commit WP core files
+# you can delete this whole section/until Configuration.
+# /wp-admin/
+/wp-*.php
 
 # Configuration
 wp-config.php
