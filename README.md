@@ -1,6 +1,6 @@
 # portfolio
 
-Hi, I'm Anais Martínez Aguado and this is my WordPress static generated portfolio which was designed using Figma.
+Hi, I'm Anais Martínez Aguado and this is my WordPress static-generated portfolio which was designed using Figma.
 
 ## WordPress plugins used
 
